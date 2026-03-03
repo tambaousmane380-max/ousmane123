@@ -1,0 +1,202 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #999566;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+.nav ul {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  list-style: none;
+  color: black;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+li:hover {
+  color: rgb(14, 19, 9);
+  background-color: rgb(243, 246, 241);
+  font-size: 30px;
+  border: 5px solid rgb(165, 164, 153);
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.rit p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  color: #000;
+  border: 5px solid white;
+  margin-top: 200px;
+  
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  color: black;
+  
+}
+.siteo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+}
+.alin p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  margin-right: 20px;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid whitesmoke;
+  
+}
+.aliner img {
+  height: 400px;
+  border-radius: 20px;
+  border: 3px solid whitesmoke;
+  margin-top: 50px;
+  margin-left: 10px;
+  
+  
+}
+.berre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+}
+.abber img {
+  height: 400px;
+  width: 300px;
+  border: 3px solid whitesmoke;
+  border-radius: 20px;
+  margin-top: 50px;
+
+  
+}
+.abe p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 4px solid whitesmoke;
+  border-radius: 15px;
+margin-right: 20px;
+}
+.seck {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 10px;
+  padding: 10px;
+}
+.assan img {
+  width: 200px;
+  height: 400px;
+  border-radius: 50px;
+  border: 5px solid whitesmoke;
+  margin-top: 40px;
+}
+.ass p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 5px solid whitesmoke;
+  margin-right: 20px;
+
+}
+.sagna {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.rober img {
+  width: 300px;
+  height: 400px;
+  border: 4px solid whitesmoke;
+  border-radius: 40px;
+  margin-top: 50px;
+}
+.sob p {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 5px solid whitesmoke;
+  margin-right: 20px;
+}
+.ousboy {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.sonkolo img {
+  width: 300px;
+  height: 400px;
+  border: 4px solid whitesmoke;
+  border-radius: 40px;
+  margin-top: 50px;
+}
+.son p {
+  font-size: 24px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 5px solid whitesmoke;
+  margin-right: 20px;
+
+}
+.sadio {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.maner img {
+  width: 400px;
+  height: 400px;
+  border: 4px solid whitesmoke;
+  border-radius: 40px;
+  margin-top: 50px;
+}
+.man p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 5px solid whitesmoke;
+  background-color: whitesmoke;
+  margin-right: 20px;
+}
+.bocande {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.juler img {
+  width: 300px;
+  height: 400px;
+  border: 4px solid whitesmoke;
+  border-radius: 40px;
+  margin-top: 50px;
+}
+.jul p {
+  font-size: 24px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border: 5px solid whitesmoke;
+  margin-right: 20px;
+
+}
+.casa{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  border: 1ps solid #000;
+}

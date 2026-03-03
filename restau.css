@@ -1,0 +1,142 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #999566;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+.nav ul {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  list-style: none;
+  color: black;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+li:hover {
+  color: rgb(14, 19, 9);
+  background-color: gainsboro;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+h1 {
+  list-style: none;
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-size: 30px;
+}
+.rap {
+  margin-top: 100px;
+  font-size: 29px;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  font-size: 25px;
+}
+.kaldou img {
+  width: 400px;
+  height: 400px;
+  background-position: 10px;
+  border-radius: 50%;
+}
+.kal p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid rgb(255, 255, 255);
+}
+.section kaldou{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.yassa img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.yas p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid rgb(255, 255, 255);
+}
+.section yassa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  gap: 10px;
+}
+.etodie img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.dou p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid white;
+}
+.section etod {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 50px;
+}
+.mere img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.mer p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid white;
+}
+.section mere{
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-top: 50px;
+  border-radius: 50%;
+  font-style: italic;
+}
+.section mafe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  gap: 10%;
+}
+.marr img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.maf p {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid white;
+}
+.foot p {
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+}
