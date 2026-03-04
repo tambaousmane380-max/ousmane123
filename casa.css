@@ -1,5 +1,5 @@
 body {
-  background-image: url(audio/casamance1.jpg);
+  background-image: url(audio/casa.jpg);
 }
 header {
   display: flex;
@@ -115,7 +115,7 @@ h1 {
   font-size: 25px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
-  border: 2px solid white;
+  border: 5px solid white;
   margin-top: 20px;
   padding: 10px;
   margin: 15px;
